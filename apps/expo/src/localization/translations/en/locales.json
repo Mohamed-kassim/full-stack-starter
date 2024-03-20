@@ -1,0 +1,8 @@
+{
+  "CFBundleDisplayName": "YourProjectName",
+  "NSContactsUsageDescription": "Authenticate Your Face",
+  "NSLocationAlwaysAndWhenInUseUsageDescription": "YourProjectName needs access to your Location To check the employee in and out",
+  "NSLocationAlwaysUsageDescription": "YourProjectName needs access to your Location To check the employee in and out",
+  "NSLocationWhenInUseUsageDescription": "YourProjectName needs access to your Location To check the employee in and out",
+  "NSCameraUsageDescription": "YourProjectName needs access to your Camera To Scan Device QRCode"
+}

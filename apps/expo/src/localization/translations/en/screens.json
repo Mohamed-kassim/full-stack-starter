@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "title": "Settings",
+    "preferences": "Preferences",
+    "help": "Help"
+  },
+  "theme": {
+    "title": "Theme",
+    "selectYourTheme": "Select Your Preferred Theme"
+  },
+  "language": {
+    "title": "Language",
+    "selectYourLanguage": "Please Select Your Preferred Language"
+  },
+  "howItWorks": {
+    "title": "How It Works"
+  },
+  "document": {
+    "error": "Failed To Load Document"
+  },
+  "registration": {
+    "title": "Registration",
+    "subscribe": "Subscribe To Free Plan",
+    "userInformation": "User Information",
+    "companyInformation": "Company Information",
+    "selectYourCountry": "Select your country",
+    "selectYourCity": "Select your state",
+    "noCountry": "Pick Country",
+    "noState": "Pick State"
+  },
+  "qrScanner": {
+    "description": "Scan Qr Code To Link Your Device",
+    "linkDescription": "Where is The Code?"
+  }
+}

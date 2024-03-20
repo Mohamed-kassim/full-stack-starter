@@ -1,0 +1,33 @@
+{
+  "appName": "YourProjectName",
+  "hello": "Hello",
+  "time": "{{date, hh:mm A}}",
+  "date": "{{date, DD/MM/YYYY}}",
+  "languageSelector": "Please Select Your Preferred Language",
+  "languageSearch": "Search Language Here",
+  "goToSettings": "Go To Settings",
+  "scanQrCode": "Scan QR Code",
+  "showMore": "Show More",
+  "showLess": "Show Less",
+  "back": "Back",
+  "done": "Done",
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "close": "Close",
+  "continue": "Continue",
+  "themes": {
+    "default": "System",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "signUp": "Sign Up",
+  "howItWorks": "How It Works?",
+  "linkDevice": "Link Device",
+  "terms": "Terms Of Use",
+  "privacy": "Privacy Policy",
+  "state": "State",
+  "country": "Country",
+  "noData": "No Data Available",
+  "checkIn": "CHECK IN",
+  "checkOut": "CHECK OUT"
+}

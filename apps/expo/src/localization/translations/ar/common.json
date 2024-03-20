@@ -1,0 +1,33 @@
+{
+  "appName": "أتندلاب",
+  "hello": "مرحباً",
+  "time": "{{date, hh:mm A}}",
+  "date": "{{date, DD/MM/YYYY}}",
+  "languageSelector": "رجاءاً قم بإختيار لغتك المفضلة",
+  "languageSearch": "إبحث عن اللغة هنا",
+  "goToSettings": "الذهاب للإعدادات",
+  "scanQrCode": "قم بفحص الرمز",
+  "showMore": "أظهر المزيد",
+  "showLess": "أظهر أقل",
+  "back": "السابق",
+  "done": "تم",
+  "confirm": "تأكيد",
+  "cancel": "إلغاء",
+  "close": "إغلاق",
+  "continue": "متابعة",
+  "themes": {
+    "default": "النظام",
+    "light": "فاتح",
+    "dark": "داكن"
+  },
+  "signUp": "إشترك",
+  "howItWorks": "كيف يعمل؟",
+  "linkDevice": "ربط الجهاز",
+  "terms": "شروط الخدمة",
+  "privacy": "سياسة الخصوصية",
+  "country": "البلد",
+  "state": "المدينة",
+  "noData": "لا يوجد بيانات",
+  "checkIn": "تسجيل الحضور",
+  "checkOut": "تسجيل الإنصراف"
+}

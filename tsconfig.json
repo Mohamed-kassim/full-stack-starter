@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "strictNullChecks": true,
+    "noUncheckedIndexedAccess": true,
+    "allowUmdGlobalAccess": true,
+    "paths": {
+      "app/*": ["./packages/app/*"],
+      "@core/ui/*": ["./packages/ui/*"]
+    }
+  },
+  "extends": "tsconfig.base",
+  "exclude": [
+    "**/node_modules",
+    "**/dist",
+    "**/types",
+    "apps/next/out",
+    "apps/next/.next",
+    "apps/next/.tamagui"
+  ]
+}

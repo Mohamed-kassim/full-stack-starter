@@ -1,0 +1,38 @@
+{
+  "400": {
+    "title": "فشل العملية",
+    "description": "هذه البيانات مسجلة لدينا من قبل"
+  },
+  "somethingWentWrong": {
+    "title": "حدث خطأ ما",
+    "description": "حدث خطأ غير متوقع"
+  },
+  "userCreated": {
+    "title": "تم إنشاء الحساب",
+    "description": "تم إنشاء حسابك بنجاح"
+  },
+  "deviceLoginFailed": {
+    "title": "فشل تسجيل الجهاز",
+    "description": "فشل عملية تسجيل الجهاز، الرجاء المحاولة مرة أخرى"
+  },
+  "checkInFailed": {
+    "title": "فشل تسجيل الحضور",
+    "description": "فشل عملية تسجيل الحضور الرجاء المحاولة مرة أخرى"
+  },
+  "checkOutFailed": {
+    "title": "فشل تسجيل الإنصراف",
+    "description": "فشل عملية تسجيل الإنصراف الرجاء المحاولة مرة أخرى"
+  },
+  "deviceLoginSuccess": {
+    "title": "عملية ناجحة",
+    "description": "تم تسجيل الجهاز بنجاح، مرحباً بك"
+  },
+  "checkInSuccess": {
+    "title": "تسجيل الحضور بنجاح",
+    "description": "تم تسجيل الحضور بنجاح، مرحباً بك"
+  },
+  "checkOutSuccess": {
+    "title": "تسجيل الإنصراف بنجاح",
+    "description": "تم تسجيل الإنصراف بنجاح، مع السلامة"
+  }
+}

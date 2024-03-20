@@ -1,0 +1,52 @@
+{
+  "cli": {
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "production": {
+      "distribution": "store",
+      "env": {
+        "EXPO_PUBLIC_API_URL": "https://api.attendlab.com/api",
+        "EXPO_PUBLIC_FRONT_URL": "https://app.attendlab.com/",
+        "EXPO_PUBLIC_APP_ENV": "production"
+      },
+      "android": {
+        "buildType": "app-bundle"
+      },
+      "ios": {},
+      "channel": "production",
+      "autoIncrement": true
+    },
+    "preview": {
+      "extends": "production",
+      "distribution": "internal",
+      "env": {
+        "EXPO_PUBLIC_APP_ENV": "preview"
+      },
+      "channel": "preview"
+    },
+    "dev-preview": {
+      "extends": "preview",
+      "developmentClient": false,
+      "distribution": "internal",
+      "env": {
+        "EXPO_PUBLIC_API_URL": "https://api.attendlab.com/api",
+        "EXPO_PUBLIC_FRONT_URL": "https://app.attendlab.com/",
+        "EXPO_PUBLIC_APP_ENV": "dev-preview"
+      },
+      "android": {
+        "buildType": "apk"
+      },
+      "channel": "dev-preview"
+    },
+    "development": {
+      "extends": "dev-preview",
+      "developmentClient": true,
+      "distribution": "internal",
+      "env": {
+        "EXPO_PUBLIC_APP_ENV": "development"
+      },
+      "channel": "development"
+    }
+  }
+}

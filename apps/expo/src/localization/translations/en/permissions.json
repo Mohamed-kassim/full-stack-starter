@@ -1,0 +1,17 @@
+{
+  "requestAccess": "Request Access",
+  "loading": "Loading your permission status",
+  "notAvailableBody": "Sorry but this feature is not available (on this device / in this context)",
+  "camera": {
+    "title": "Enable Camera",
+    "body": "Please provide us access to your camera, which is required for scanning your Device QR Code"
+  },
+  "location": {
+    "title": "Enable Geo-location",
+    "body": "By allowing Geo-location your employee can check in and out"
+  },
+  "notifications": {
+    "title": "قم بتفعيل الإشعارات",
+    "body": "بالسماح لنا للوصول للإشعارات الخاص بك، سوف تسمح للموظف بتسجيل الحضور والإنصراف"
+  }
+}

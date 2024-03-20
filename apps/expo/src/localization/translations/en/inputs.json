@@ -1,0 +1,32 @@
+{
+  "errors": {
+    "required": "This field is required",
+    "length": "Field must have at least {{count}} characters",
+    "number": "Field only allows numbers",
+    "email": "Invalid email address",
+    "password": "Password must have at least 8 characters long, 1 capital letter, 1 lower letter, 1 number and 1 special character",
+    "confirmPassword": "Passwords doesn't match"
+  },
+  "search": {
+    "label": "Search Here"
+  },
+  "email": {
+    "label": "Email Address",
+    "placeholder": "email@email.com"
+  },
+  "firstName": {
+    "label": "First Name"
+  },
+  "lastName": {
+    "label": "Last Name"
+  },
+  "password": {
+    "label": "Password"
+  },
+  "confirmPassword": {
+    "label": "Confirm Password"
+  },
+  "companyName": {
+    "label": "Company Name"
+  }
+}

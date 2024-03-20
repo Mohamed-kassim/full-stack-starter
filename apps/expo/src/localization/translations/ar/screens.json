@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "title": "الإعدادات",
+    "preferences": "التفضيلات",
+    "help": "المساعدة"
+  },
+  "theme": {
+    "title": "المظهر",
+    "selectYourTheme": "برجاء إختيار مظهرك المفضل"
+  },
+  "language": {
+    "title": "اللغة",
+    "selectYourLanguage": "برجاء إختيار لغتك المفضلة"
+  },
+  "howItWorks": {
+    "title": "كيف يعمل"
+  },
+  "document": {
+    "error": "فشل في قرائة الملف"
+  },
+  "registration": {
+    "title": "تسجيل الإشتراك",
+    "subscribe": "إشترك مجاناً في الخطة المجانية",
+    "userInformation": "بيانات المستخدم",
+    "companyInformation": "بيانات الشركة",
+    "selectYourCountry": "قم بإختيار بلدك",
+    "selectYourCity": "قم بإختيار مدينتك",
+    "noCountry": "إختر بلد",
+    "noState": "إختر محافظة"
+  },
+  "qrScanner": {
+    "description": "قم بفحص الرمز لربط الجهاز الخاص بك",
+    "linkDescription": "أين هو الرمز؟"
+  }
+}

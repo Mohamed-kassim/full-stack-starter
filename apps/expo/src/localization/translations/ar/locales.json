@@ -1,0 +1,8 @@
+{
+  "CFBundleDisplayName": "أتندلاب",
+  "NSContactsUsageDescription": "قم بتسجيل وجهك",
+  "NSLocationAlwaysAndWhenInUseUsageDescription": "أتند لاب يحتاج للوصول إلى موقعك للسماح بالموظف بتسجيل الحضور والإنصراف",
+  "NSLocationAlwaysUsageDescription": "أتند لاب يحتاج للوصول إلى موقعك للسماح بالموظف بتسجيل الحضور والإنصراف",
+  "NSLocationWhenInUseUsageDescription": "أتند لاب يحتاج للوصول إلى موقعك للسماح بالموظف بتسجيل الحضور والإنصراف",
+  "NSCameraUsageDescription": "أتندلاب يحتاج للوصول للكاميرا، لفحص رمز دخول الجهاز"
+}

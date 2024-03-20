@@ -1,0 +1,32 @@
+{
+  "general": {
+    "title": "Error",
+    "subtitle": "Something Went Wrong",
+    "body": "General Error Happened Please Restart The App",
+    "done": "Done",
+    "close": "Close"
+  },
+  "wrongQRCode": {
+    "title": "Wrong QRCode",
+    "subtitle": "Wrong QRCode",
+    "body": "Please make sure you are scanning the right QRCode",
+    "done": "Try Again"
+  },
+  "emailVerification": {
+    "title": "THANKS FOR YOUR SUBSCRIPTION",
+    "body": "Please check your email to verify your account.",
+    "done": "How to Continue"
+  },
+  "checkInSuccess": {
+    "title": "Welcome",
+    "subtitle": "Checked-in Successfully",
+    "body": "Attendance Checked-in Successfully, Welcome.",
+    "done": "Go Home"
+  },
+  "checkOutSuccess": {
+    "title": "Goodby",
+    "subtitle": "Checked-out Successfully",
+    "body": "Attendance Checked-out Successfully, Goodby.",
+    "done": "Go Home"
+  }
+}

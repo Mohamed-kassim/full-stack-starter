@@ -1,0 +1,63 @@
+{
+  "welcomeShowCase": {
+    "0": {
+      "title": "Do You Have An Account?",
+      "body": "YourProjectName® allow you to create employees records, attach face images, and access reports",
+      "footer": "Sign Up Now!"
+    },
+    "1": {
+      "title": "100% Cloud",
+      "body": "The first Face Recognition Attendance System that works 100% over the cloud, you don’t need to worry your data securely stored and backup."
+    },
+    "2": {
+      "title": "No Installation",
+      "body": "No technician needs to visit your office. \n  You don’t need servers, special devices, or networking to use YourProjectName®"
+    },
+    "3": {
+      "title": "Unlimited Scalability",
+      "body": "YourProjectName® fits small, medium, and large Enterprises. You can start with one user, one employee, and one device; eventually you can add more - unlimitted - number of resources as your business grows",
+      "footer": "Sign Up Now!"
+    },
+    "4": {
+      "title": "Audit Log",
+      "body": "Admin can easily track other users’ activities and know when they login or out, and what they have done",
+      "footer": "Sign Up Now!"
+    },
+    "5": {
+      "title": "Multi Time Zones",
+      "body": "YourProjectName® manages multi time zones attendance, so it supports companies having global branches and performs the time zones conversion.",
+      "footer": "Sign Up Now!"
+    },
+    "6": {
+      "title": "IP and GEO Restrictions",
+      "body": "Restrict employees and devices from reporting face attendances using IP Address, \n  Location on Map, or both.",
+      "footer": "Sign Up Now!"
+    }
+  },
+  "howItWorks": {
+    "0": {
+      "title": "1. Sign Up",
+      "body": "Click the button to Sign Up and get a Free account.",
+      "footer": "Sign Up Now!"
+    },
+    "1": {
+      "title": "2. Login",
+      "body": "From a computer browser, open \nhttps://app.YourProjectName.com\n Login with your credentials to setup your account.",
+      "footer": "Login Now!"
+    },
+    "2": {
+      "title": "3. Setup",
+      "body": "Go to Location/Device\n Click on Add Location button.\nOn devices column, add a new device to the location"
+    },
+    "3": {
+      "title": "4. Authenticate App",
+      "body": "On Location/Device page\nChoose the device and click on Authenticate To Show your QR code\n In your mobile app, click Link Device and scan QR code.",
+      "footer": "Link Device!"
+    },
+    "4": {
+      "title": "5. Track Attendance",
+      "body": "Use the authenticated mobile app to Check In/Out employees with their faces.",
+      "footer": "Start Now!"
+    }
+  }
+}

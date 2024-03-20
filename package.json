@@ -1,0 +1,48 @@
+{
+  "name": "ghadir",
+  "dependencies": {
+    "@babel/runtime": "^7.18.9",
+    "@manypkg/cli": "^0.19.1",
+    "burnt": "^0.12.2",
+    "check-dependency-version-consistency": "^3.0.3",
+    "eslint": "^8.21.0",
+    "next": "14.1.4",
+    "node-gyp": "^9.3.1",
+    "prettier": "^2.7.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native-safe-area-context": "^4.9.0",
+    "turbo": "^1.10.3",
+    "typescript": "^5.3.3"
+  },
+  "private": true,
+  "resolutions": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native-svg": "14.1.0",
+    "react-native-web": "~0.19.6"
+  },
+  "scripts": {
+    "native": "cd apps/expo && bun start",
+    "watch": "bun workspaces foreach -pi run watch",
+    "vercel:install": "bun set version 3.5 && bun install",
+    "web": "bun run build && cd apps/next && bun next",
+    "web:extract": "DISABLE_EXTRACTION=false bun workspace next-app dev",
+    "web:prod": "bun workspace next-app build",
+    "web:prod:serve": "bun workspace next-app serve",
+    "fix": "manypkg fix",
+    "postinstall": "bun check-deps && bun run build",
+    "build": "bun run build-workspaces.sh",
+    "upgrade:tamagui": "yarn up *tamagui*'@latest '@tamagui/*'@latest react-native-web-lite@latest",
+    "upgrade:tamagui:canary": "yarn up '*tamagui*'@canary '@tamagui/*'@canary react-native-web-lite@canary",
+    "check-deps": "check-dependency-version-consistency .",
+    "clean": "git clean -xdf node_modules && rm -f bun.lockb && rm -rf ./apps/next/.next && rm -rf ./apps/expo/node_modules &&rm -rf ./apps/next/.tamagui && rm -rf ./apps/next/node_modules && rm -rf ./packages/ui/dist"
+  },
+  "workspaces": [
+    "./apps/*",
+    "./packages/*"
+  ],
+  "devDependencies": {
+    "ajv-keywords": "^5.1.0"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "400": {
+    "title": "Action Failed",
+    "description": "This Data Is Already Registered For us"
+  },
+  "somethingWentWrong": {
+    "title": "Something Went Wrong",
+    "description": "Unexpected Error Happened"
+  },
+  "userCreated": {
+    "title": "Account Created",
+    "description": "Your Account Created Successfully"
+  },
+  "deviceLoginFailed": {
+    "title": "Device Authentication Failed",
+    "description": "Device Authentication Failed Please Try Again"
+  },
+  "checkInFailed": {
+    "title": "Attendance Check-In Failed",
+    "description": "Attendance Check-In Failed Failed Please Try Again"
+  },
+  "checkOutFailed": {
+    "title": "Attendance Check-Out Failed",
+    "description": "Attendance Check-Out Failed Failed Please Try Again"
+  },
+  "deviceLoginSuccess": {
+    "title": "Device Authentication Success",
+    "description": "Device Authenticated Successfully, Welcome."
+  },
+  "checkInSuccess": {
+    "title": "Attendance Checked-in Successfully",
+    "description": "Attendance Checked-in Successfully, Welcome."
+  },
+  "checkOutSuccess": {
+    "title": "Attendance Checked-out Successfully",
+    "description": "Attendance Checked-out Successfully, Goodby."
+  }
+}
